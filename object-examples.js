@@ -17,3 +17,9 @@ var animal = {
   age: 8,
   location: 'Lincoln Park Zoo',
 }
+
+var customer = {
+  name: "Stacey",
+  purchase: ["socks", "shoes"],
+  date: " 14 December 2021 at 5:30 PM",
+}
