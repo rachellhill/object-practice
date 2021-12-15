@@ -10,3 +10,10 @@ var car = {
   make: 'Ford',
   model: 'F1-50';
 }
+
+var animal = {
+  species: 'mammal',
+  animalType: 'lion',
+  age: 8,
+  location: 'Lincoln Park Zoo',
+}
