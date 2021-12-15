@@ -4,3 +4,9 @@ var gitHub = {
   type: 'collaborative',
   command: ['git init', 'git add', 'git commit'],
 }
+
+var car = {
+  color: 'red',
+  make: 'Ford',
+  model: 'F1-50';
+}
